@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+#### I just started my first line ever in 2019, so don't judge me too much.
 <!--
 **jacobmask/jacobmask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
