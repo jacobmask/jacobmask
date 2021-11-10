@@ -2,7 +2,7 @@
 
 #### I just started my first line ever in 2019, so don't judge me too much.
 
-## Contact me:
+## Contact me
 Discord: bilumer#2773
 
 ## History of me
