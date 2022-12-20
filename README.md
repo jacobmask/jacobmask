@@ -3,7 +3,7 @@
 #### I just started my first line ever in 2019, so don't judge me too much.
 
 ## Contact me
-Discord: bilumer#2773
+Email: bilumermc@gmail.com
 
 ## History of me
 
