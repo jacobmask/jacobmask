@@ -11,8 +11,8 @@ Email: bilumermc@gmail.com
 - Took a C++ course in college, fell in love and changed my major
 - Created some basic plugins(Java) on minecraft
 - Started a Game Hosting business, offering server storage/use for clients
-- Working on a Master's in Software Engineering with an emphasis in Full Stack development
 - Coursework here and there
+- Embedded Software Engineer job since 2021.  
 <!--
 **jacobmask/jacobmask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
